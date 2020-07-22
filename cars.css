@@ -1,0 +1,45 @@
+body{
+ background: rgba(101, 135, 150, 0.6) ;
+}
+h1{
+ text-align: center;
+ font-style: italic;
+ background: darkgoldenrod;
+ border-radius: 0 0 10px 10px;
+ font-family: Candara;
+ padding-bottom: 15px;
+ padding-top: 15px;
+;
+}
+div{
+ padding-bottom:80px;
+}
+img{
+width:900px;
+ padding-left: 5px;
+ padding-bottom:10px ;
+}
+h3{
+ padding-left: 15px;
+}
+#ls{
+ padding-left: 5px;
+ font-family: "Book Antiqua";
+  padding-bottom:15px ;
+}
+#sp{
+ background:rgba(170, 65, 155, 0.3);
+ width: 800px;
+ font-style: italic;
+ border-radius: 8px 8px 8px 8px;
+
+}
+
+a{
+ font-style: italic;
+ background: chocolate;
+ text-align: center;
+ border-radius: 8px 8px 8px 8px;
+ font-size: 16 px;
+
+}
